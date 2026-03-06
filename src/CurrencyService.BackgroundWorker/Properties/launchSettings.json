@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "CurrencyService.BackgroundWorker": {
+      "commandName": "Project"
+    },
+    "Container (Dockerfile)": {
+      "commandName": "Docker"
+    }
+  }
+}
